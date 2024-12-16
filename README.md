@@ -65,7 +65,7 @@ The dataset file is stored locally and mounted into the Docker container for pro
 ## Project Files
 
 ### Repository Structure:
-PS C:\Users\Behram Khan\Desktop\assignment3> ls
+![image](https://github.com/user-attachments/assets/30b25219-d2a2-4d3d-ada8-118f098c936e)
 
 
     Directory: C:\Users\Behram Khan\Desktop\assignment3
